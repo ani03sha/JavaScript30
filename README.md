@@ -5,6 +5,7 @@
 ## Reference
 [JavaScript 30](https://javascript30.com/)
 
+## Checklist
 - [x] JavaScript Drum Kit
 - [ ] CSS + JS Clock
 - [ ] Playing with CSS variables and JS
