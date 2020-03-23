@@ -5,33 +5,33 @@
 ## Reference
 [JavaScript 30](https://javascript30.com/)
 
-[x] JavaScript Drum Kit
-[] CSS + JS Clock
-[] Playing with CSS variables and JS
-[] Array Cardio Day 1
-[] Flex Panels Image Gallery
-[] Ajax Type Ahead
-[] Array Cardio Day 2
-[] Fun With HTML5 Canvas
-[] 14 Must Know DevTools Tricks
-[] Hold Shift To Check Multiple Checkboxes
-[] Custom HTML5 Video Player
-[] Key Sequence Detection (KONAMI CODE)
-[] Slide In on Scroll
-[] Objects and Arrays - Reference vs Copy
-[] LocalStorage and Event Delegation
-[] CSS Text Shadow Mouse Move Effect
-[] Sorting Band Names Without Articles
-[] Tally String Times with Reduce
-[] Unreal Webcam Fun
-[] Native Speech Recognition
-[] Geolocation based Speedometer and Compass
-[] Follow Along Links
-[] Speech Synthesis
-[] Sticky Nav
-[] Event Capture, Propagation, Bubbling and Once
-[] Stripe Follow Along Dropdown
-[] Click and Drag to Scroll
-[] Video Speed Controller UI
-[] Countdown Clock
-[] Whack a Mole Game
+- [x] JavaScript Drum Kit
+- [ ] CSS + JS Clock
+- [ ] Playing with CSS variables and JS
+- [ ] Array Cardio Day 1
+- [ ] Flex Panels Image Gallery
+- [ ] Ajax Type Ahead
+- [ ] Array Cardio Day 2
+- [ ] Fun With HTML5 Canvas
+- [ ] 14 Must Know DevTools Tricks
+- [ ] Hold Shift To Check Multiple Checkboxes
+- [ ] Custom HTML5 Video Player
+- [ ] Key Sequence Detection (KONAMI CODE)
+- [ ] Slide In on Scroll
+- [ ] Objects and Arrays - Reference vs Copy
+- [ ] LocalStorage and Event Delegation
+- [ ] CSS Text Shadow Mouse Move Effect
+- [ ] Sorting Band Names Without Articles
+- [ ] Tally String Times with Reduce
+- [ ] Unreal Webcam Fun
+- [ ] Native Speech Recognition
+- [ ] Geolocation based Speedometer and Compass
+- [ ] Follow Along Links
+- [ ] Speech Synthesis
+- [ ] Sticky Nav
+- [ ] Event Capture, Propagation, Bubbling and Once
+- [ ] Stripe Follow Along Dropdown
+- [ ] Click and Drag to Scroll
+- [ ] Video Speed Controller UI
+- [ ] Countdown Clock
+- [ ] Whack a Mole Game
