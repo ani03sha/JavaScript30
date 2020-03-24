@@ -7,7 +7,7 @@
 
 ## Checklist
 - [x] JavaScript Drum Kit
-- [ ] CSS + JS Clock
+- [x] CSS + JS Clock
 - [ ] Playing with CSS variables and JS
 - [ ] Array Cardio Day 1
 - [ ] Flex Panels Image Gallery
