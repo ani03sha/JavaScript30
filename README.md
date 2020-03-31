@@ -12,7 +12,7 @@
 - [x] Array Cardio Day 1
 - [x] Flex Panels Image Gallery
 - [x] Ajax Type Ahead
-- [ ] Array Cardio Day 2
+- [x] Array Cardio Day 2
 - [ ] Fun With HTML5 Canvas
 - [ ] 14 Must Know DevTools Tricks
 - [ ] Hold Shift To Check Multiple Checkboxes
