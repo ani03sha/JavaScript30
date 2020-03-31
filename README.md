@@ -13,7 +13,7 @@
 - [x] Flex Panels Image Gallery
 - [x] Ajax Type Ahead
 - [x] Array Cardio Day 2
-- [ ] Fun With HTML5 Canvas
+- [x] Fun With HTML5 Canvas
 - [ ] 14 Must Know DevTools Tricks
 - [ ] Hold Shift To Check Multiple Checkboxes
 - [ ] Custom HTML5 Video Player
