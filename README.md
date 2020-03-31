@@ -14,7 +14,7 @@
 - [x] Ajax Type Ahead
 - [x] Array Cardio Day 2
 - [x] Fun With HTML5 Canvas
-- [ ] 14 Must Know DevTools Tricks
+- [x] 14 Must Know DevTools Tricks
 - [ ] Hold Shift To Check Multiple Checkboxes
 - [ ] Custom HTML5 Video Player
 - [ ] Key Sequence Detection (KONAMI CODE)
