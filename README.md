@@ -11,7 +11,7 @@
 - [x] Playing with CSS variables and JS
 - [x] Array Cardio Day 1
 - [x] Flex Panels Image Gallery
-- [ ] Ajax Type Ahead
+- [x] Ajax Type Ahead
 - [ ] Array Cardio Day 2
 - [ ] Fun With HTML5 Canvas
 - [ ] 14 Must Know DevTools Tricks
