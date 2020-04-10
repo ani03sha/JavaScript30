@@ -16,8 +16,8 @@
 - [x] Fun With HTML5 Canvas
 - [x] 14 Must Know DevTools Tricks
 - [x] Hold Shift To Check Multiple Checkboxes
-- [ ] Custom HTML5 Video Player
-- [ ] Key Sequence Detection (KONAMI CODE)
+- [x] Custom HTML5 Video Player
+- [x] Key Sequence Detection (KONAMI CODE)
 - [ ] Slide In on Scroll
 - [ ] Objects and Arrays - Reference vs Copy
 - [ ] LocalStorage and Event Delegation
