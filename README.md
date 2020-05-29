@@ -18,7 +18,7 @@
 - [x] Hold Shift To Check Multiple Checkboxes
 - [x] Custom HTML5 Video Player
 - [x] Key Sequence Detection (KONAMI CODE)
-- [ ] Slide In on Scroll
+- [x] Slide In on Scroll
 - [ ] Objects and Arrays - Reference vs Copy
 - [ ] LocalStorage and Event Delegation
 - [ ] CSS Text Shadow Mouse Move Effect
